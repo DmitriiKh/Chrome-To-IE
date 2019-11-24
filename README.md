@@ -40,9 +40,9 @@ You are very welcome to make a pull request if you'd like.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 * Thanks for the inspiration to the developer who asked for help on StackOverflow
-* Also, I do not appreciate that guy who decided to close the discussion before I could post my solution there
+* Also, I do not appreciate that another guy who decided to close the discussion before I could post my solution there
