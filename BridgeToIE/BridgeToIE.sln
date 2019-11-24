@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeToIE", "BridgeToIE.csproj", "{67B8E591-4DF6-4886-97D6-3CCBEDA60A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B8E591-4DF6-4886-97D6-3CCBEDA60A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B8E591-4DF6-4886-97D6-3CCBEDA60A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B8E591-4DF6-4886-97D6-3CCBEDA60A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B8E591-4DF6-4886-97D6-3CCBEDA60A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BEFBFF-8F82-48E3-B7C0-AED9D0F23188}
+	EndGlobalSection
+EndGlobal

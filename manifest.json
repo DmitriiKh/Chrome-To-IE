@@ -1,0 +1,17 @@
+{
+    "name": "ChromeToIE",
+    "version": "1.0",
+    "description": "Redirects from Chrome to Internet Explorer",
+    "content_scripts": [{
+        "matches": ["http://stackoverflow.com/*", "https://stackoverflow.com/*"],
+        "js": ["call_IE.js"]
+    }],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "nativeMessaging",
+        "tabs"
+    ],
+    "manifest_version": 2
+}
