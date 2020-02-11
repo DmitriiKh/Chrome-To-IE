@@ -16,7 +16,7 @@ namespace BridgeToIE
                 // 1024 byte should be enough for URL
                 var buffer = new byte[1024];
 
-                // the first 4 bytes contain the length
+                // the first 4 bytes contain the length 
                 standardInput.Read(buffer, 0, 4);
                 var length = BitConverter.ToInt32(buffer, 0);
 
