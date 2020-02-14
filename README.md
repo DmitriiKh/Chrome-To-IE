@@ -45,4 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Thanks for the inspiration to the developer who asked for help on StackOverflow
-* Also, I do not appreciate that another guy who decided to close the discussion before I could post my solution there
