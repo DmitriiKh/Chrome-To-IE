@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Thanks for the inspiration to the developer who asked for help on StackOverflow
+* Thanks for the inspiration to the developer who asked for help on StackOverflow 
